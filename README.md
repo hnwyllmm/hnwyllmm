@@ -17,30 +17,6 @@ I'm **Wang Yunlai**, a software engineer in Hangzhou, China. I enjoy working clo
 - 📝 I write at [blog.csdn.net/hnwyllmm](https://blog.csdn.net/hnwyllmm)
 - 📍 Hangzhou, Zhejiang, China
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hnwyllmm/netkiller">netkiller</a></h3>
-      <p>A network-speed limiter for Windows, written in C.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hnwyllmm/coroutine_crash">coroutine_crash</a></h3>
-      <p>Tools for inspecting coroutine stack information.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hnwyllmm/memcheck_rt">memcheck_rt</a></h3>
-      <p>A Linux x64 memory-leak checking project.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hnwyllmm/taskaholic">taskaholic</a></h3>
-      <p>A Go project currently under active development.</p>
-    </td>
-  </tr>
-</table>
 
 ## Toolbox
 
